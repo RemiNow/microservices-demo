@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/RBNowDemo/68f1dc77-7481-4133-ad89-98b4f9b40b75/c85ada2c-9379-4b34-aa77-157d9ab6738a/_apis/work/boardbadge/0397975e-b1a5-463d-9a79-efe289b85905)](https://dev.azure.com/RBNowDemo/68f1dc77-7481-4133-ad89-98b4f9b40b75/_boards/board/t/c85ada2c-9379-4b34-aa77-157d9ab6738a/Microsoft.RequirementCategory)
 [![Build Status](https://travis-ci.org/microservices-demo/microservices-demo.svg?branch=master)](https://travis-ci.org/microservices-demo/microservices-demo)
 
 # Sock Shop : A Microservice Demo Application
